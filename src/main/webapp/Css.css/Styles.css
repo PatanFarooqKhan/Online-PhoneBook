@@ -1,0 +1,14 @@
+
+	table {
+	background:yellow;
+	color: purple;
+	border: red; 
+}
+th {
+	color: black;
+	font: italic;
+}
+td {
+	color: graytext;
+	font: italic;
+}
